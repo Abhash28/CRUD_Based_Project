@@ -28,4 +28,3 @@ NoteApp is a web-based application designed to help users manage their notes in 
 - **Frontend:** The frontend of the application is built using React.js. It communicates with the backend to display the list of notes and handle the creation and deletion of notes.
 - **Backend:** The backend is built using Node.js and Express.js. It provides API endpoints for adding, deleting, and retrieving notes from the database.
 - **Database:** MongoDB is used as the database to store the notes. Each note contains a title, description, and a unique identifier.
-- 
